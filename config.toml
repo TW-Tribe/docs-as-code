@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My Documentation Site"
+theme = "hugo-book-master"

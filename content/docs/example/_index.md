@@ -8,7 +8,15 @@ title: "Example Site"
 
 ## Ferre hinnitibus erat accipitrem dixi Troiae tollens
 
-Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
+# Introduction 
+
+The following changes are made: 
+1. Change 1 
+1. Change 2 
+
+These are some examples of Markdown 
+
+
 inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
 non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
 novabis fallit de nubibus atque silvas mihi. **Dixit repetitaque Quid**; verrit

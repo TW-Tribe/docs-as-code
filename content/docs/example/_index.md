@@ -26,8 +26,9 @@ This is some new content added to the existing
 2. New content 2
 
 
-inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
-non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
+Changes are made in github directly. 
+
+s pharetramque gramen portentificisque membris servatum
 novabis fallit de nubibus atque silvas mihi. **Dixit repetitaque Quid**; verrit
 longa; sententia [mandat](http://pastor-ad.io/questussilvas) quascumque nescio
 solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit

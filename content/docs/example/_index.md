@@ -6,7 +6,11 @@ title: "Example Site"
 
 # Introduction
 
+
 ## Ferre hinnitibus erat accipitrem dixi Troiae tollens
+## heading 2 
+
+Some content is added. 
 
 # Introduction 
 

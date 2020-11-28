@@ -1,6 +1,8 @@
 # docs-as-code
 Docs as code tutorial
 
+**Logo of Tech Writer's Tribe**
+
 ![Logo](/TWT_logo_sign.png)
 
 ## What is Markdown

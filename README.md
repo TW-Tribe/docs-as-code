@@ -82,7 +82,7 @@ Make it bold or italics too
 ### Graphics (Images/Videos)
 Links and images are almost same. You do not insert images, but provide the path to the image folder.
 
-![TWT logo](https://user-images.githubusercontent.com/70775241/100518149-d78b3c00-31b5-11eb-8711-5933e2cf5b34.jpg)
+![TWT logo](/TWT logo.jpg)
 
 Enhance images
 

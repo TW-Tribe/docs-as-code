@@ -1,6 +1,8 @@
 # docs-as-code
 Docs as code tutorial
 
+![Logo](/TWT_logo_sign.png)
+
 ## What is Markdown
 Markdown is a lightweight text format that 
   * allows writers to focus more on writing 

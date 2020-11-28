@@ -55,21 +55,17 @@ To make a phrase italic in Markdown, you can surround words with an underscore (
 This will **really** get your point across.
 
 ### Lists
-Unordered
-
+**Unordered**
 Use * with space before the list item.
 
-Ordered
-
+**Ordered**
 Use number 1 with space before the numbered item. 
 
-Nested list
-
--Press tab for alignment and then use * or number.
-
+**Nested list**
+Press tab for alignment and then use * or number.
 
 
-List with separate lines
+**List with separate lines**
 
 -Simply add indentation and start the line from where list start and then indent by at least single space.
 
@@ -86,7 +82,7 @@ Make it bold or italics too
 ### Graphics (Images/Videos)
 Links and images are almost same. You do not insert images, but provide the path to the image folder.
 
-![Tech Writer’s Tribe logo](https://techwriterstribe.com/cropped-pivot-tribe-logo-final-02-jpg/)
+![TWT logo](https://user-images.githubusercontent.com/70775241/100518149-d78b3c00-31b5-11eb-8711-5933e2cf5b34.jpg)
 
 Enhance images
 

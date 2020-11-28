@@ -84,7 +84,10 @@ Links and images are almost same. You do not insert images, but provide the path
 
 ![TWT logo](/TWT logo.jpg)
 
+TWT logo.jpg
+
 Enhance images
+![TWT logo](docs-as-code/TWT logo.jpg)
 
 Alt Text for Accessibility
 

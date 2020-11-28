@@ -84,14 +84,13 @@ Make it bold or italics too
 ### Graphics (Images/Videos)
 Links and images are almost same. You do not insert images, but provide the path to the image folder.
 
-![TWT logo](/TWT logo.jpg)
+![Logo](/TWT_logo_sign.png)
 
-TWT logo.jpg
 
 Enhance images
-![TWT logo](docs-as-code/TWT logo.jpg)
-
 Alt Text for Accessibility
+
+![Logo](/TWT_logo_sign.png "TWT Logo")
 
 
 ### Tables

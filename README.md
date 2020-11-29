@@ -1,9 +1,33 @@
 # docs-as-code
 Docs as code tutorial
 
+## Repeat the steps
+- Click Pull requests
+- Base: master, other branch-different
+
 **Logo of Tech Writer's Tribe**
 
 ![Logo](/TWT_logo_sign.png)
+
+![Write Alt Tex](https://i.pinimg.com/originals/d0/a9/ab/d0a9ab19a78ff177eaa99be97e72bb3b.jpg)
+
+## Testing GitHub Flavor
+Your computer crashed? Try sending a
+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>
+
+```json
+def page
+    puts "TWT!"
+end
+```
+
+Strikethrough:
+
+~~It was created by John Gruber in 2004.
+
+
+
+
 
 ## What is Markdown
 Markdown is a lightweight text format that 

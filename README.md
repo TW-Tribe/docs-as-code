@@ -1,6 +1,10 @@
 # docs-as-code
 Docs as code tutorial
 
+## Repeat the steps
+- Click Pull requests
+- Base: master, other branch-different
+
 **Logo of Tech Writer's Tribe**
 
 ![Logo](/TWT_logo_sign.png)
